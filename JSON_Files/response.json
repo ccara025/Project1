@@ -1,0 +1,2055 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2020 The New York Times Company. All Rights Reserved.",
+  "section": "Health",
+  "last_updated": "2020-10-05T06:46:32-04:00",
+  "num_results": 25,
+  "results": [
+    {
+      "section": "health",
+      "subsection": "",
+      "title": "Carter Williams, Who Unshackled Nursing Home Residents, Dies at 97",
+      "abstract": "By closely describing the inner lives of older people, Ms. Williams altered legal regulations and clinical standards applied to nursing homes.",
+      "url": "https://www.nytimes.com/2020/10/05/health/carter-williams-dead.html",
+      "uri": "nyt://article/dc460cc1-e2c4-58ee-8d27-b03d6d0f0e1a",
+      "byline": "By Alex Traub",
+      "item_type": "Article",
+      "updated_date": "2020-10-05T13:57:34-04:00",
+      "created_date": "2020-10-05T12:15:33-04:00",
+      "published_date": "2020-10-05T12:15:33-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "Nursing Homes",
+        "Elder Care",
+        "Elderly",
+        "Regulation and Deregulation of Industry"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Williams, Carter Catlett (1923-2020)"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/obituaries/04williams/merlin_177901722_4c46a08c-877a-43b3-a804-e26d83f32bf1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 1536,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Carter Catlett Williams in 2014. Her advocacy played a key role in the passage of the Nursing Home Reform Act.",
+          "copyright": "Barbara Frank, via Pioneer Network"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/obituaries/04williams/04williams-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Carter Catlett Williams in 2014. Her advocacy played a key role in the passage of the Nursing Home Reform Act.",
+          "copyright": "Barbara Frank, via Pioneer Network"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/obituaries/04williams/04williams-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Carter Catlett Williams in 2014. Her advocacy played a key role in the passage of the Nursing Home Reform Act.",
+          "copyright": "Barbara Frank, via Pioneer Network"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/obituaries/04williams/04williams-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Carter Catlett Williams in 2014. Her advocacy played a key role in the passage of the Nursing Home Reform Act.",
+          "copyright": "Barbara Frank, via Pioneer Network"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/obituaries/04williams/merlin_177901722_4c46a08c-877a-43b3-a804-e26d83f32bf1-articleInline.jpg",
+          "format": "Normal",
+          "height": 253,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Carter Catlett Williams in 2014. Her advocacy played a key role in the passage of the Nursing Home Reform Act.",
+          "copyright": "Barbara Frank, via Pioneer Network"
+        }
+      ],
+      "short_url": "https://nyti.ms/2Gv0xJv"
+    },
+    {
+      "section": "us",
+      "subsection": "",
+      "title": "Parents Face Murder Charge in Death of Girl With Severe Lice",
+      "abstract": "Some experts were skeptical that lice alone could have killed the girl, Kaitlyn Yozviak. The case underscored fears about how the pandemic has cut children off from people who could report neglect.",
+      "url": "https://www.nytimes.com/2020/10/05/us/kaitlyn-yozviak-severe-lice-coronavirus.html",
+      "uri": "nyt://article/f63da252-abbb-5e10-a6df-d9c4a82da7be",
+      "byline": "By Maria Cramer",
+      "item_type": "Article",
+      "updated_date": "2020-10-05T14:04:04-04:00",
+      "created_date": "2020-10-05T10:18:39-04:00",
+      "published_date": "2020-10-05T10:18:39-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Child Abuse and Neglect",
+        "Lice",
+        "Murders, Attempted Murders and Homicides"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Yozviak, Kaitlyn",
+        "Yozviak, John Joseph",
+        "Horton, Mary Katherine"
+      ],
+      "geo_facet": [
+        "Georgia"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/multimedia/01xp-lice-promo/01xp-lice-promo-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 378,
+          "width": 609,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Wilkinson County Sheriff's Office"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/multimedia/01xp-lice-promo/01xp-lice-promo-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Wilkinson County Sheriff's Office"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/multimedia/01xp-lice-promo/01xp-lice-promo-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Wilkinson County Sheriff's Office"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/multimedia/01xp-lice-promo/01xp-lice-promo-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Wilkinson County Sheriff's Office"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/multimedia/01xp-lice-promo/01xp-lice-promo-articleInline.jpg",
+          "format": "Normal",
+          "height": 118,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Wilkinson County Sheriff's Office"
+        }
+      ],
+      "short_url": "https://nyti.ms/3d2DCRz"
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "Instead of Reassurance, Trump\u2019s Doctor Delivers Confusion, Experts Say",
+      "abstract": "Dr. Sean P. Conley, who admitted that he had misled the public about the president\u2019s treatment, has lost credibility with some colleagues.",
+      "url": "https://www.nytimes.com/2020/10/04/us/politics/trump-doctor-conley.html",
+      "uri": "nyt://article/c63fcedd-5f4f-5d66-bc4f-c397b721bb01",
+      "byline": "By Sheryl Gay Stolberg",
+      "item_type": "Article",
+      "updated_date": "2020-10-05T10:26:25-04:00",
+      "created_date": "2020-10-04T20:24:54-04:00",
+      "published_date": "2020-10-04T20:24:54-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Trump Coronavirus Positive Result",
+        "Coronavirus (2019-nCoV)",
+        "Doctors",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Reed, Walter, National Military Medical Center"
+      ],
+      "per_facet": [
+        "Conley, Sean Patrick",
+        "Trump, Donald J",
+        "Dooley, Sean N",
+        "Garibaldi, Brian"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/us/politics/04dc-virus-conley/04dc-virus-conley-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dr. Sean P. Conley speaking to reporters on Sunday. He has ducked and sidestepped questions about the president\u2019s condition.",
+          "copyright": "Anna Moneymaker for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/us/politics/04dc-virus-conley/04dc-virus-conley-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dr. Sean P. Conley speaking to reporters on Sunday. He has ducked and sidestepped questions about the president\u2019s condition.",
+          "copyright": "Anna Moneymaker for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/us/politics/04dc-virus-conley/04dc-virus-conley-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dr. Sean P. Conley speaking to reporters on Sunday. He has ducked and sidestepped questions about the president\u2019s condition.",
+          "copyright": "Anna Moneymaker for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/us/politics/04dc-virus-conley/04dc-virus-conley-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dr. Sean P. Conley speaking to reporters on Sunday. He has ducked and sidestepped questions about the president\u2019s condition.",
+          "copyright": "Anna Moneymaker for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/us/politics/04dc-virus-conley/04dc-virus-conley-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dr. Sean P. Conley speaking to reporters on Sunday. He has ducked and sidestepped questions about the president\u2019s condition.",
+          "copyright": "Anna Moneymaker for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3l6Kr7A"
+    },
+    {
+      "section": "health",
+      "subsection": "",
+      "title": "Can Halloween Be Saved? Yes, Experts Say. Here\u2019s How.",
+      "abstract": "You can still safely celebrate the ghoulish season, but trick-or-treating and other celebrations may have to be modified to protect against coronavirus infection.",
+      "url": "https://www.nytimes.com/article/halloween-cdc-guidelines-coronavirus.html",
+      "uri": "nyt://article/9d99718f-4aae-5d16-801f-f69361312d48",
+      "byline": "By Aimee Ortiz",
+      "item_type": "Article",
+      "updated_date": "2020-10-05T13:50:25-04:00",
+      "created_date": "2020-10-04T09:00:10-04:00",
+      "published_date": "2020-10-04T09:00:10-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Halloween",
+        "Coronavirus Risks and Safety Concerns",
+        "Costumes",
+        "Holidays and Special Occasions",
+        "Coronavirus (2019-nCoV)",
+        "Masks",
+        "Candy",
+        "Ghosts",
+        "Haunted Houses",
+        "Pumpkins"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/us/25xpvirus-halloween/merlin_176782305_6bf2189e-3edb-4fbb-befd-1faa7c45d103-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1262,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "It\u2019s important that children be allowed to enjoy spooky festivities this year because \u201cholidays like Halloween mean a lot to kids,\u201d one expert said.",
+          "copyright": "Frederic J. Brown/Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/us/25xpvirus-halloween/25xpvirus-halloween-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "It\u2019s important that children be allowed to enjoy spooky festivities this year because \u201cholidays like Halloween mean a lot to kids,\u201d one expert said.",
+          "copyright": "Frederic J. Brown/Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/us/25xpvirus-halloween/25xpvirus-halloween-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "It\u2019s important that children be allowed to enjoy spooky festivities this year because \u201cholidays like Halloween mean a lot to kids,\u201d one expert said.",
+          "copyright": "Frederic J. Brown/Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/us/25xpvirus-halloween/25xpvirus-halloween-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "It\u2019s important that children be allowed to enjoy spooky festivities this year because \u201cholidays like Halloween mean a lot to kids,\u201d one expert said.",
+          "copyright": "Frederic J. Brown/Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/us/25xpvirus-halloween/merlin_176782305_6bf2189e-3edb-4fbb-befd-1faa7c45d103-articleInline.jpg",
+          "format": "Normal",
+          "height": 117,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "It\u2019s important that children be allowed to enjoy spooky festivities this year because \u201cholidays like Halloween mean a lot to kids,\u201d one expert said.",
+          "copyright": "Frederic J. Brown/Agence France-Presse \u2014 Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3cYa7AH"
+    },
+    {
+      "section": "at-home",
+      "subsection": "",
+      "title": "Identify the Different Symptoms of the Flu and Covid-19",
+      "abstract": "With fears of a \u201ctwindemic\u201d in the United States this fall, here\u2019s a guide to understanding what\u2019s making you feel terrible.",
+      "url": "https://www.nytimes.com/2020/10/03/at-home/coronavirus-flu-symptoms.html",
+      "uri": "nyt://article/74278bf8-65e6-52a4-9f10-281093e014fd",
+      "byline": "By Donald G. McNeil Jr.",
+      "item_type": "Article",
+      "updated_date": "2020-10-04T23:11:48-04:00",
+      "created_date": "2020-10-03T22:46:08-04:00",
+      "published_date": "2020-10-03T22:46:08-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Quarantine (Life and Culture)",
+        "Coronavirus (2019-nCoV)",
+        "Coronavirus Risks and Safety Concerns",
+        "Content Type: Service",
+        "Influenza",
+        "Tests (Medical)",
+        "Colds",
+        "Masks",
+        "Fever",
+        "Vaccination and Immunization",
+        "Doctors"
+      ],
+      "org_facet": [
+        "Centers for Disease Control and Prevention"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/multimedia/04-ah-symptoms/04-ah-symptoms-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1770,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Luci Guti&eacute;rrez"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/multimedia/04-ah-symptoms/04-ah-symptoms-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Luci Guti&eacute;rrez"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/multimedia/04-ah-symptoms/04-ah-symptoms-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Luci Guti&eacute;rrez"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/multimedia/04-ah-symptoms/04-ah-symptoms-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Luci Guti&eacute;rrez"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/multimedia/04-ah-symptoms/04-ah-symptoms-articleInline.jpg",
+          "format": "Normal",
+          "height": 164,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Luci Guti&eacute;rrez"
+        }
+      ],
+      "short_url": "https://nyti.ms/3nhpMzy"
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "For Trump, the Only Medical News Is Good Medical News",
+      "abstract": "Conflicting accounts of the president\u2019s condition underline the fact that the public does not have a definitive answer about the president\u2019s health.",
+      "url": "https://www.nytimes.com/2020/10/03/us/politics/white-house-trump-health.html",
+      "uri": "nyt://article/163b7977-c755-545b-bd6d-f9cad326f0b9",
+      "byline": "By Annie Karni",
+      "item_type": "Article",
+      "updated_date": "2020-10-04T15:30:24-04:00",
+      "created_date": "2020-10-03T20:59:49-04:00",
+      "published_date": "2020-10-03T20:59:49-04:00",
+      "material_type_facet": "",
+      "kicker": "News Analysis",
+      "des_facet": [
+        "Trump Coronavirus Positive Result",
+        "Presidential Election of 2020",
+        "United States Politics and Government",
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [
+        "Reed, Walter, National Military Medical Center"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Conley, Sean Patrick",
+        "Jackson, Ronny L",
+        "Meadows, Mark R (1959- )"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/03/us/politics/03dc-virus-lies-pix/03elections-brief-meadows-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In comments to reporters, Mark Meadows, the White House chief of staff, offered a grimmer assessment of the president\u2019s condition that stood in stark contrast to the optimistic prognosis his doctors issued minutes earlier.",
+          "copyright": "Anna Moneymaker for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/03/us/politics/03dc-virus-lies-pix/03elections-brief-meadows-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In comments to reporters, Mark Meadows, the White House chief of staff, offered a grimmer assessment of the president\u2019s condition that stood in stark contrast to the optimistic prognosis his doctors issued minutes earlier.",
+          "copyright": "Anna Moneymaker for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/03/us/politics/03dc-virus-lies-pix/03elections-brief-meadows-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In comments to reporters, Mark Meadows, the White House chief of staff, offered a grimmer assessment of the president\u2019s condition that stood in stark contrast to the optimistic prognosis his doctors issued minutes earlier.",
+          "copyright": "Anna Moneymaker for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/03/us/politics/03dc-virus-lies-pix/03elections-brief-meadows-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In comments to reporters, Mark Meadows, the White House chief of staff, offered a grimmer assessment of the president\u2019s condition that stood in stark contrast to the optimistic prognosis his doctors issued minutes earlier.",
+          "copyright": "Anna Moneymaker for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/03/us/politics/03dc-virus-lies-pix/03elections-brief-meadows-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In comments to reporters, Mark Meadows, the White House chief of staff, offered a grimmer assessment of the president\u2019s condition that stood in stark contrast to the optimistic prognosis his doctors issued minutes earlier.",
+          "copyright": "Anna Moneymaker for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/36tlOhg"
+    },
+    {
+      "section": "us",
+      "subsection": "",
+      "title": "What to Know About Sean Conley, the White House Physician",
+      "abstract": "Dr. Conley, who was appointed as President Trump\u2019s physician in 2018, is a doctor of osteopathic medicine.",
+      "url": "https://www.nytimes.com/2020/10/03/us/sean-conley-trump-doctor.html",
+      "uri": "nyt://article/dddc3ce5-4217-5f9e-8628-9bf5326ea3de",
+      "byline": "By Allyson Waller and Christina Morales",
+      "item_type": "Article",
+      "updated_date": "2020-10-04T19:54:08-04:00",
+      "created_date": "2020-10-03T18:14:40-04:00",
+      "published_date": "2020-10-03T18:14:40-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Trump Coronavirus Positive Result",
+        "Hydroxychloroquine (Drug)",
+        "United States Politics and Government",
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [
+        "Reed, Walter, National Military Medical Center"
+      ],
+      "per_facet": [
+        "Conley, Sean Patrick",
+        "Trump, Donald J",
+        "Jackson, Ronny L"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/03/multimedia/03xp-trump-doctor-pix/03xp-trump-doctor-pix-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1513,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dr. Sean P. Conley, President Trump\u2019s physician, has served as an emergency doctor for the U.S. Navy since 2006.",
+          "copyright": "Anna Moneymaker for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/03/multimedia/03xp-trump-doctor-pix/03xp-trump-doctor-pix-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dr. Sean P. Conley, President Trump\u2019s physician, has served as an emergency doctor for the U.S. Navy since 2006.",
+          "copyright": "Anna Moneymaker for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/03/multimedia/03xp-trump-doctor-pix/03xp-trump-doctor-pix-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dr. Sean P. Conley, President Trump\u2019s physician, has served as an emergency doctor for the U.S. Navy since 2006.",
+          "copyright": "Anna Moneymaker for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/03/multimedia/03xp-trump-doctor-pix/03xp-trump-doctor-pix-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dr. Sean P. Conley, President Trump\u2019s physician, has served as an emergency doctor for the U.S. Navy since 2006.",
+          "copyright": "Anna Moneymaker for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/03/multimedia/03xp-trump-doctor-pix/03xp-trump-doctor-pix-articleInline.jpg",
+          "format": "Normal",
+          "height": 140,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dr. Sean P. Conley, President Trump\u2019s physician, has served as an emergency doctor for the U.S. Navy since 2006.",
+          "copyright": "Anna Moneymaker for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2F3xNqM"
+    },
+    {
+      "section": "health",
+      "subsection": "",
+      "title": "Trump\u2019s Covid Treatments Are Aimed at Preventing Severe Illness",
+      "abstract": "Outside experts pointed to the therapies as signs that the president\u2019s health may not be as good as his doctors said. His age, weight and gender put him at high risk.",
+      "url": "https://www.nytimes.com/2020/10/03/health/Covid-trump-treatments.html",
+      "uri": "nyt://article/15dfd5f7-527f-5554-8b92-e7b6f70d7b5f",
+      "byline": "By Gina Kolata and Apoorva Mandavilli",
+      "item_type": "Article",
+      "updated_date": "2020-10-04T19:51:45-04:00",
+      "created_date": "2020-10-03T17:18:10-04:00",
+      "published_date": "2020-10-03T17:18:10-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Trump Coronavirus Positive Result",
+        "Coronavirus (2019-nCoV)",
+        "Remdesivir (Drug)",
+        "Antibodies",
+        "Drugs (Pharmaceuticals)",
+        "Pulse Oximetry",
+        "Oxygen",
+        "your-feed-healthcare"
+      ],
+      "org_facet": [
+        "Regeneron Pharmaceuticals Inc",
+        "Reed, Walter, National Military Medical Center"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Conley, Sean Patrick"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/03/multimedia/03VIRUS-TREATMENTS-image/03VIRUS-TREATMENTS-image-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1345,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dr. Sean P. Conley, the White House physician, offered few details about the president\u2019s condition outside Walter Reed National Military Medical Center in Bethesda, Md., on Saturday.",
+          "copyright": "Anna Moneymaker for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/03/multimedia/03VIRUS-TREATMENTS-image/03VIRUS-TREATMENTS-image-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dr. Sean P. Conley, the White House physician, offered few details about the president\u2019s condition outside Walter Reed National Military Medical Center in Bethesda, Md., on Saturday.",
+          "copyright": "Anna Moneymaker for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/03/multimedia/03VIRUS-TREATMENTS-image/03VIRUS-TREATMENTS-image-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dr. Sean P. Conley, the White House physician, offered few details about the president\u2019s condition outside Walter Reed National Military Medical Center in Bethesda, Md., on Saturday.",
+          "copyright": "Anna Moneymaker for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/03/multimedia/03VIRUS-TREATMENTS-image/03VIRUS-TREATMENTS-image-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dr. Sean P. Conley, the White House physician, offered few details about the president\u2019s condition outside Walter Reed National Military Medical Center in Bethesda, Md., on Saturday.",
+          "copyright": "Anna Moneymaker for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/03/multimedia/03VIRUS-TREATMENTS-image/03VIRUS-TREATMENTS-image-articleInline.jpg",
+          "format": "Normal",
+          "height": 125,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dr. Sean P. Conley, the White House physician, offered few details about the president\u2019s condition outside Walter Reed National Military Medical Center in Bethesda, Md., on Saturday.",
+          "copyright": "Anna Moneymaker for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/36BRmBA"
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "74 and Overweight, Trump Faces Extra Risks From \u2018a Very Sneaky Virus\u2019",
+      "abstract": "The president has boasted of his health and is sure to receive the best possible care, but he carries a number of risk factors as he begins his battle with Covid-19.",
+      "url": "https://www.nytimes.com/2020/10/02/us/politics/trump-coronavirus-risks.html",
+      "uri": "nyt://article/e17466fe-4e01-54b1-a394-aea8b84ba713",
+      "byline": "By Sheryl Gay Stolberg",
+      "item_type": "Article",
+      "updated_date": "2020-10-03T18:50:44-04:00",
+      "created_date": "2020-10-02T20:01:43-04:00",
+      "published_date": "2020-10-02T20:01:43-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Trump Coronavirus Positive Result",
+        "Coronavirus (2019-nCoV)",
+        "Drugs (Pharmaceuticals)",
+        "United States Politics and Government"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/world/02dc-virustrumphealth1/merlin_176975349_8d3e1dc2-e9ac-4d60-a662-8144e20db64f-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump has access to unusual treatments like an experimental antibody cocktail, but he faces risk factors including his age, weight and sex that put him in a higher-risk group for a severe infection.",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/world/02dc-virustrumphealth1/merlin_176975349_8d3e1dc2-e9ac-4d60-a662-8144e20db64f-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump has access to unusual treatments like an experimental antibody cocktail, but he faces risk factors including his age, weight and sex that put him in a higher-risk group for a severe infection.",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/world/02dc-virustrumphealth1/merlin_176975349_8d3e1dc2-e9ac-4d60-a662-8144e20db64f-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump has access to unusual treatments like an experimental antibody cocktail, but he faces risk factors including his age, weight and sex that put him in a higher-risk group for a severe infection.",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/world/02dc-virustrumphealth1/merlin_176975349_8d3e1dc2-e9ac-4d60-a662-8144e20db64f-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump has access to unusual treatments like an experimental antibody cocktail, but he faces risk factors including his age, weight and sex that put him in a higher-risk group for a severe infection.",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/world/02dc-virustrumphealth1/merlin_176975349_8d3e1dc2-e9ac-4d60-a662-8144e20db64f-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump has access to unusual treatments like an experimental antibody cocktail, but he faces risk factors including his age, weight and sex that put him in a higher-risk group for a severe infection.",
+          "copyright": "Doug Mills/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3iraVPi"
+    },
+    {
+      "section": "health",
+      "subsection": "",
+      "title": "Joan Marks, Doyenne of Genetic Counselors, Dies at 91",
+      "abstract": "She taught counselors to empower their patients to make informed medical decisions about genetic tests and inherited diseases.",
+      "url": "https://www.nytimes.com/2020/10/02/health/joan-marks-dead.html",
+      "uri": "nyt://article/7b5a024f-ffd0-5091-826d-28b58ea1906d",
+      "byline": "By Katharine Q. Seelye",
+      "item_type": "Article",
+      "updated_date": "2020-10-04T00:47:54-04:00",
+      "created_date": "2020-10-02T18:16:15-04:00",
+      "published_date": "2020-10-02T18:16:15-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "Genetics and Heredity"
+      ],
+      "org_facet": [
+        "Sarah Lawrence College"
+      ],
+      "per_facet": [
+        "Marks, Joan H"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/03/obituaries/01Joanmarks1/01Joanmarks1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1364,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Joan Marks, standing, teaching a human genetics class in the 1980s at Sarah Lawrence College, where she headed the nation&rsquo;s first genetic counseling program.",
+          "copyright": "via Sarah Lawrence College"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/03/obituaries/01Joanmarks1/01Joanmarks1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Joan Marks, standing, teaching a human genetics class in the 1980s at Sarah Lawrence College, where she headed the nation&rsquo;s first genetic counseling program.",
+          "copyright": "via Sarah Lawrence College"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/03/obituaries/01Joanmarks1/01Joanmarks1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Joan Marks, standing, teaching a human genetics class in the 1980s at Sarah Lawrence College, where she headed the nation&rsquo;s first genetic counseling program.",
+          "copyright": "via Sarah Lawrence College"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/03/obituaries/01Joanmarks1/01Joanmarks1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Joan Marks, standing, teaching a human genetics class in the 1980s at Sarah Lawrence College, where she headed the nation&rsquo;s first genetic counseling program.",
+          "copyright": "via Sarah Lawrence College"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/03/obituaries/01Joanmarks1/01Joanmarks1-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Joan Marks, standing, teaching a human genetics class in the 1980s at Sarah Lawrence College, where she headed the nation&rsquo;s first genetic counseling program.",
+          "copyright": "via Sarah Lawrence College"
+        }
+      ],
+      "short_url": "https://nyti.ms/30vzFjz"
+    },
+    {
+      "section": "health",
+      "subsection": "",
+      "title": "President Trump Received Experimental Antibody Treatment",
+      "abstract": "Mr. Trump received a single dose of an antibody cocktail made by the biotech company Regeneron. The company\u2019s C.E.O. has known the president for years.",
+      "url": "https://www.nytimes.com/2020/10/02/health/trump-antibody-treatment.html",
+      "uri": "nyt://article/4ffa1f7f-d0b6-51e1-b77c-68aabd62b0ea",
+      "byline": "By Katie Thomas and Gina Kolata",
+      "item_type": "Article",
+      "updated_date": "2020-10-04T19:55:35-04:00",
+      "created_date": "2020-10-02T12:19:25-04:00",
+      "published_date": "2020-10-02T12:19:25-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "your-feed-science",
+        "Trump Coronavirus Positive Result",
+        "Drugs (Pharmaceuticals)",
+        "Coronavirus (2019-nCoV)",
+        "Clinical Trials",
+        "Antibodies",
+        "United States Politics and Government",
+        "your-feed-healthcare"
+      ],
+      "org_facet": [
+        "Eli Lilly and Company",
+        "Regeneron Pharmaceuticals Inc"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/science/02VIRUS-TRUMP-TREATMENT01/merlin_175679481_a6909266-8f93-448e-9a1c-e4ea11862459-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A pharmacist in Chandler, Ariz. prepares an injection during a trial for Regeneron\u2019s antibody treatment in August.",
+          "copyright": "Adriana Zehbrauskas for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/science/02VIRUS-TRUMP-TREATMENT01/02VIRUS-TRUMP-TREATMENT01-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A pharmacist in Chandler, Ariz. prepares an injection during a trial for Regeneron\u2019s antibody treatment in August.",
+          "copyright": "Adriana Zehbrauskas for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/science/02VIRUS-TRUMP-TREATMENT01/02VIRUS-TRUMP-TREATMENT01-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A pharmacist in Chandler, Ariz. prepares an injection during a trial for Regeneron\u2019s antibody treatment in August.",
+          "copyright": "Adriana Zehbrauskas for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/science/02VIRUS-TRUMP-TREATMENT01/merlin_175679481_a6909266-8f93-448e-9a1c-e4ea11862459-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A pharmacist in Chandler, Ariz. prepares an injection during a trial for Regeneron\u2019s antibody treatment in August.",
+          "copyright": "Adriana Zehbrauskas for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/science/02VIRUS-TRUMP-TREATMENT01/merlin_175679481_a6909266-8f93-448e-9a1c-e4ea11862459-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A pharmacist in Chandler, Ariz. prepares an injection during a trial for Regeneron\u2019s antibody treatment in August.",
+          "copyright": "Adriana Zehbrauskas for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3cRAdoC"
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "Biotech Industry Pushes Trump Administration to Release New Vaccine Guidelines",
+      "abstract": "The BIO trade group, whose members include most of the vaccine makers, asked the health secretary to make the new vaccine guidelines public.",
+      "url": "https://www.nytimes.com/2020/10/02/us/politics/covid-vaccine-guidelines.html",
+      "uri": "nyt://article/2a92a538-6da2-5adf-a7f7-caf74ff9e6f9",
+      "byline": "By Sheryl Gay Stolberg",
+      "item_type": "Article",
+      "updated_date": "2020-10-02T23:13:48-04:00",
+      "created_date": "2020-10-02T09:33:07-04:00",
+      "published_date": "2020-10-02T09:33:07-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Vaccination and Immunization",
+        "Coronavirus (2019-nCoV)",
+        "Clinical Trials",
+        "your-feed-healthcare"
+      ],
+      "org_facet": [
+        "Food and Drug Administration"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/science/02VIRUS-GUIDELINES02/02VIRUS-GUIDELINES02-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1225,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Food and Drug Administration building in Silver Spring, Maryland.",
+          "copyright": "Stefani Reynolds for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/science/02VIRUS-GUIDELINES02/02VIRUS-GUIDELINES02-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Food and Drug Administration building in Silver Spring, Maryland.",
+          "copyright": "Stefani Reynolds for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/science/02VIRUS-GUIDELINES02/02VIRUS-GUIDELINES02-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Food and Drug Administration building in Silver Spring, Maryland.",
+          "copyright": "Stefani Reynolds for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/science/02VIRUS-GUIDELINES02/02VIRUS-GUIDELINES02-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Food and Drug Administration building in Silver Spring, Maryland.",
+          "copyright": "Stefani Reynolds for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/science/02VIRUS-GUIDELINES02/02VIRUS-GUIDELINES02-articleInline.jpg",
+          "format": "Normal",
+          "height": 114,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Food and Drug Administration building in Silver Spring, Maryland.",
+          "copyright": "Stefani Reynolds for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3la9lDA"
+    },
+    {
+      "section": "health",
+      "subsection": "",
+      "title": "Trump Has the Coronavirus. What Risks Does He Face?",
+      "abstract": "Older men have a greater chance of becoming severely ill from Covid-19, though many recover quickly. Experts say the next week will be crucial.",
+      "url": "https://www.nytimes.com/2020/10/02/health/trump-coronavirus-explainer.html",
+      "uri": "nyt://article/cd846511-dfdd-5e21-9567-e2747a379bd5",
+      "byline": "By Sui-Lee Wee",
+      "item_type": "Article",
+      "updated_date": "2020-10-02T21:52:50-04:00",
+      "created_date": "2020-10-02T07:44:35-04:00",
+      "published_date": "2020-10-02T07:44:35-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "Coronavirus (2019-nCoV)",
+        "Dexamethasone (Drug)",
+        "Obesity",
+        "Trump Coronavirus Positive Result"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "United States"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/world/VIRUS-TRUMP-SCIENCE/merlin_177550905_5324c795-5eee-457a-b02d-4a4c1e819528-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump in Jacksonville, Fla., last week.",
+          "copyright": "Anna Moneymaker for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/world/VIRUS-TRUMP-SCIENCE/VIRUS-TRUMP-SCIENCE-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump in Jacksonville, Fla., last week.",
+          "copyright": "Anna Moneymaker for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/world/VIRUS-TRUMP-SCIENCE/VIRUS-TRUMP-SCIENCE-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump in Jacksonville, Fla., last week.",
+          "copyright": "Anna Moneymaker for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/world/VIRUS-TRUMP-SCIENCE/merlin_177550905_5324c795-5eee-457a-b02d-4a4c1e819528-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump in Jacksonville, Fla., last week.",
+          "copyright": "Anna Moneymaker for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/world/VIRUS-TRUMP-SCIENCE/merlin_177550905_5324c795-5eee-457a-b02d-4a4c1e819528-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump in Jacksonville, Fla., last week.",
+          "copyright": "Anna Moneymaker for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/33noafZ"
+    },
+    {
+      "section": "science",
+      "subsection": "",
+      "title": "After Wildfires Stop Burning, a Danger in the Drinking Water",
+      "abstract": "Experts are warning that existing water safety rules are not suitable to a world where wildfires destroy more residential areas than in the past.",
+      "url": "https://www.nytimes.com/2020/10/02/science/wildfires-water-toxins.html",
+      "uri": "nyt://article/af984d83-a808-54a6-ae50-c745f67e3989",
+      "byline": "By Max Horberry",
+      "item_type": "Article",
+      "updated_date": "2020-10-05T12:24:14-04:00",
+      "created_date": "2020-10-02T05:00:57-04:00",
+      "published_date": "2020-10-02T05:00:57-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Plumbing",
+        "Wildfires",
+        "Hazardous and Toxic Substances",
+        "Water Pollution",
+        "Regulation and Deregulation of Industry",
+        "Research",
+        "your-feed-science"
+      ],
+      "org_facet": [
+        "AWWA Water Science (Journal)"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "California",
+        "Oregon",
+        "Paradise (Calif)",
+        "Santa Cruz (Calif)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/06/science/00SCI-FIREWATER02/00SCI-FIREWATER02-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1364,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Water flows from a pipe amid the charred remains of a building in Gates, Oregon, in September.",
+          "copyright": "Kathryn Elsesser/Agence France-Presse &mdash; Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/06/science/00SCI-FIREWATER02/00SCI-FIREWATER02-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Water flows from a pipe amid the charred remains of a building in Gates, Oregon, in September.",
+          "copyright": "Kathryn Elsesser/Agence France-Presse &mdash; Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/06/science/00SCI-FIREWATER02/00SCI-FIREWATER02-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Water flows from a pipe amid the charred remains of a building in Gates, Oregon, in September.",
+          "copyright": "Kathryn Elsesser/Agence France-Presse &mdash; Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/06/science/00SCI-FIREWATER02/00SCI-FIREWATER02-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Water flows from a pipe amid the charred remains of a building in Gates, Oregon, in September.",
+          "copyright": "Kathryn Elsesser/Agence France-Presse &mdash; Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/06/science/00SCI-FIREWATER02/00SCI-FIREWATER02-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Water flows from a pipe amid the charred remains of a building in Gates, Oregon, in September.",
+          "copyright": "Kathryn Elsesser/Agence France-Presse &mdash; Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/36prAk1"
+    },
+    {
+      "section": "theater",
+      "subsection": "",
+      "title": "Unemployed Stage Actors to Face New Health Insurance Hurdle",
+      "abstract": "The fund that covers thousands of performers will require that they work more weeks per year to qualify.",
+      "url": "https://www.nytimes.com/2020/10/01/theater/stage-actors-health-insurance.html",
+      "uri": "nyt://article/ed4dd5fe-586b-5497-938d-96b7b1a387c1",
+      "byline": "By Michael Paulson",
+      "item_type": "Article",
+      "updated_date": "2020-10-03T00:19:16-04:00",
+      "created_date": "2020-10-01T18:11:36-04:00",
+      "published_date": "2020-10-01T18:11:36-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Theater",
+        "Health Insurance and Managed Care"
+      ],
+      "org_facet": [
+        "Actors Equity Assn",
+        "Broadway League"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/07/26/arts/25moulinrouge-print1/25moulinrouge-print1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1476,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Karen Olivo and Aaron Tveit in \u201cMoulin Rouge: The Musical,\u201d one of 31 Broadway shows that were running before the shutdown.",
+          "copyright": "Sara Krulwich/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/07/26/arts/25moulinrouge-print1/25moulinrouge-print1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Karen Olivo and Aaron Tveit in \u201cMoulin Rouge: The Musical,\u201d one of 31 Broadway shows that were running before the shutdown.",
+          "copyright": "Sara Krulwich/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/07/26/arts/25moulinrouge-print1/25moulinrouge-print1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Karen Olivo and Aaron Tveit in \u201cMoulin Rouge: The Musical,\u201d one of 31 Broadway shows that were running before the shutdown.",
+          "copyright": "Sara Krulwich/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/07/26/arts/25moulinrouge-print1/25moulinrouge-print1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Karen Olivo and Aaron Tveit in \u201cMoulin Rouge: The Musical,\u201d one of 31 Broadway shows that were running before the shutdown.",
+          "copyright": "Sara Krulwich/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/07/26/arts/25moulinrouge-print1/25moulinrouge-print1-articleInline.jpg",
+          "format": "Normal",
+          "height": 137,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Karen Olivo and Aaron Tveit in \u201cMoulin Rouge: The Musical,\u201d one of 31 Broadway shows that were running before the shutdown.",
+          "copyright": "Sara Krulwich/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3cQsIi4"
+    },
+    {
+      "section": "health",
+      "subsection": "",
+      "title": "Ren\u00e9e C. Fox, Founding Figure of Medical Sociology, Dies at 92",
+      "abstract": "She is credited with helping to create the field of bioethics and applying the methods of sociology to medical care.",
+      "url": "https://www.nytimes.com/2020/10/01/health/renee-c-fox-dead.html",
+      "uri": "nyt://article/e4aab101-6d96-591b-9963-1f73bf16491b",
+      "byline": "By Neil Genzlinger",
+      "item_type": "Article",
+      "updated_date": "2020-10-02T11:38:21-04:00",
+      "created_date": "2020-10-01T17:59:35-04:00",
+      "published_date": "2020-10-01T17:59:35-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "Medicine and Health",
+        "Sociology",
+        "Ethics and Official Misconduct",
+        "Doctors"
+      ],
+      "org_facet": [
+        "University of Pennsylvania"
+      ],
+      "per_facet": [
+        "Fox, Renee"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/obituaries/01Fox1-print/merlin_177773151_d9aa3eec-5442-48cd-bb42-e81359eb6a9c-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1536,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ren\u00e9e C. Fox at the University of Pennsylvania in 2002, where she was a longtime professor of sociology.\u00a0\u00a0",
+          "copyright": "Lisa Godfrey"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/obituaries/01Fox1-print/01Fox1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ren\u00e9e C. Fox at the University of Pennsylvania in 2002, where she was a longtime professor of sociology.\u00a0\u00a0",
+          "copyright": "Lisa Godfrey"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/obituaries/01Fox1-print/01Fox1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ren\u00e9e C. Fox at the University of Pennsylvania in 2002, where she was a longtime professor of sociology.\u00a0\u00a0",
+          "copyright": "Lisa Godfrey"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/obituaries/01Fox1-print/merlin_177773151_d9aa3eec-5442-48cd-bb42-e81359eb6a9c-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ren\u00e9e C. Fox at the University of Pennsylvania in 2002, where she was a longtime professor of sociology.\u00a0\u00a0",
+          "copyright": "Lisa Godfrey"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/obituaries/01Fox1-print/merlin_177773151_d9aa3eec-5442-48cd-bb42-e81359eb6a9c-articleInline.jpg",
+          "format": "Normal",
+          "height": 142,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ren\u00e9e C. Fox at the University of Pennsylvania in 2002, where she was a longtime professor of sociology.\u00a0\u00a0",
+          "copyright": "Lisa Godfrey"
+        }
+      ],
+      "short_url": "https://nyti.ms/3jnmiJo"
+    },
+    {
+      "section": "science",
+      "subsection": "",
+      "title": "Why Male Baboons Benefit From Female Friends",
+      "abstract": "These male monkeys lived longer if they socialized with females, with or without benefits.",
+      "url": "https://www.nytimes.com/2020/10/01/science/baboons-males-friendship.html",
+      "uri": "nyt://article/5d116ba7-5094-53aa-87ca-5bb2cfd7b8c5",
+      "byline": "By Elizabeth Preston",
+      "item_type": "Article",
+      "updated_date": "2020-10-01T15:29:29-04:00",
+      "created_date": "2020-10-01T14:17:57-04:00",
+      "published_date": "2020-10-01T14:17:57-04:00",
+      "material_type_facet": "",
+      "kicker": "Trilobites",
+      "des_facet": [
+        "Monkeys and Apes",
+        "Animal Behavior",
+        "Reproduction (Biological)",
+        "Friendship",
+        "Research",
+        "your-feed-science",
+        "your-feed-animals"
+      ],
+      "org_facet": [
+        "Philosophical Transactions of the Royal Society B (Journal)"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Kenya"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/science/30TB-FRIENDZONE01/30TB-FRIENDZONE01-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1364,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A male and female baboon groom each other in Amboseli National Park, Kenya. A new study shows that male baboons with close female friends live longer than those who don\u2019t.",
+          "copyright": "Susan Alberts/Duke University"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/science/30TB-FRIENDZONE01/30TB-FRIENDZONE01-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A male and female baboon groom each other in Amboseli National Park, Kenya. A new study shows that male baboons with close female friends live longer than those who don\u2019t.",
+          "copyright": "Susan Alberts/Duke University"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/science/30TB-FRIENDZONE01/30TB-FRIENDZONE01-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A male and female baboon groom each other in Amboseli National Park, Kenya. A new study shows that male baboons with close female friends live longer than those who don\u2019t.",
+          "copyright": "Susan Alberts/Duke University"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/science/30TB-FRIENDZONE01/30TB-FRIENDZONE01-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A male and female baboon groom each other in Amboseli National Park, Kenya. A new study shows that male baboons with close female friends live longer than those who don\u2019t.",
+          "copyright": "Susan Alberts/Duke University"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/science/30TB-FRIENDZONE01/30TB-FRIENDZONE01-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A male and female baboon groom each other in Amboseli National Park, Kenya. A new study shows that male baboons with close female friends live longer than those who don\u2019t.",
+          "copyright": "Susan Alberts/Duke University"
+        }
+      ],
+      "short_url": "https://nyti.ms/3l2okze"
+    },
+    {
+      "section": "well",
+      "subsection": "live",
+      "title": "Where You Carry Body Fat May Affect How Long You Live",
+      "abstract": "Extra weight in some places may lower your risk of dying prematurely.",
+      "url": "https://www.nytimes.com/2020/10/01/well/live/where-you-carry-body-fat-may-affect-how-long-you-live.html",
+      "uri": "nyt://article/fb8372f2-a20e-53ec-ba91-b380911ef8bd",
+      "byline": "By Nicholas Bakalar",
+      "item_type": "Article",
+      "updated_date": "2020-10-01T09:25:05-04:00",
+      "created_date": "2020-10-01T09:25:05-04:00",
+      "published_date": "2020-10-01T09:25:05-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Weight",
+        "Deaths (Fatalities)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/08/04/smarter-living/well-pog-dieting/well-pog-dieting-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Amrita Marino"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/04/smarter-living/well-pog-dieting/well-pog-dieting-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Amrita Marino"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/04/smarter-living/well-pog-dieting/well-pog-dieting-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Amrita Marino"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/04/smarter-living/well-pog-dieting/well-pog-dieting-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Amrita Marino"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/04/smarter-living/well-pog-dieting/well-pog-dieting-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Amrita Marino"
+        }
+      ],
+      "short_url": "https://nyti.ms/3l9wpCp"
+    },
+    {
+      "section": "world",
+      "subsection": "asia",
+      "title": "China\u2019s \u2018Golden Week\u2019 Kicks Off in Boost to Battered Tourism Industry",
+      "abstract": "Chinese travelers are expected to fan out across the country in droves, even as anxiety about the virus and the economy lingers.",
+      "url": "https://www.nytimes.com/2020/10/01/world/asia/china-tourism-covid.html",
+      "uri": "nyt://article/a886e2b4-ab8c-583b-b40b-e993adbe00ae",
+      "byline": "By Vivian Wang",
+      "item_type": "Article",
+      "updated_date": "2020-10-02T02:45:17-04:00",
+      "created_date": "2020-10-01T07:38:07-04:00",
+      "published_date": "2020-10-01T07:38:07-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Travel and Vacations",
+        "Coronavirus (2019-nCoV)",
+        "Shopping and Retail"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "China"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/world/01china-travel01/01china-travel01-superJumbo-v2.jpg",
+          "format": "superJumbo",
+          "height": 1364,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tourists waiting to enter the Forbidden City in Beijing on Thursday. It was the first day of a weeklong holiday that may offer the clearest measure yet of China\u2019s recovery from the pandemic.",
+          "copyright": "Kevin Frayer/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/world/01china-travel01/01china-travel01-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tourists waiting to enter the Forbidden City in Beijing on Thursday. It was the first day of a weeklong holiday that may offer the clearest measure yet of China\u2019s recovery from the pandemic.",
+          "copyright": "Kevin Frayer/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/world/01china-travel01/01china-travel01-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tourists waiting to enter the Forbidden City in Beijing on Thursday. It was the first day of a weeklong holiday that may offer the clearest measure yet of China\u2019s recovery from the pandemic.",
+          "copyright": "Kevin Frayer/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/world/01china-travel01/01china-travel01-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tourists waiting to enter the Forbidden City in Beijing on Thursday. It was the first day of a weeklong holiday that may offer the clearest measure yet of China\u2019s recovery from the pandemic.",
+          "copyright": "Kevin Frayer/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/world/01china-travel01/01china-travel01-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tourists waiting to enter the Forbidden City in Beijing on Thursday. It was the first day of a weeklong holiday that may offer the clearest measure yet of China\u2019s recovery from the pandemic.",
+          "copyright": "Kevin Frayer/Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3cNHaHm"
+    },
+    {
+      "section": "well",
+      "subsection": "mind",
+      "title": "Laughter May Be Effective Medicine for These Trying Times",
+      "abstract": "Doctors, nurses and therapists have a prescription for helping all of us to get through these difficult times: Try a little laughter.",
+      "url": "https://www.nytimes.com/2020/10/01/well/mind/laughter-may-be-effective-medicine-for-these-trying-times.html",
+      "uri": "nyt://article/76074b87-31d9-5557-9cf6-803231eb93ae",
+      "byline": "By Richard Schiffman",
+      "item_type": "Article",
+      "updated_date": "2020-10-02T08:28:03-04:00",
+      "created_date": "2020-10-01T05:00:22-04:00",
+      "published_date": "2020-10-01T05:00:22-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Content Type: Service",
+        "Anxiety and Stress",
+        "Laughter",
+        "Comedy and Humor",
+        "Emergency Medical Treatment",
+        "Hospitals",
+        "Coronavirus (2019-nCoV)",
+        "Doctors",
+        "Heart",
+        "Pain"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/well/well-laughter/well-laughter-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/well/well-laughter/well-laughter-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/well/well-laughter/well-laughter-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/well/well-laughter/well-laughter-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/well/well-laughter/well-laughter-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/30l7ow4"
+    },
+    {
+      "section": "health",
+      "subsection": "",
+      "title": "Timothy Ray Brown, First Patient Cured of H.I.V., Dies at 54",
+      "abstract": "Known initially as the \u201cBerlin Patient,\u201d he underwent an experimental stem cell transplant 13 years ago that rid his body of the virus. He died of leukemia.",
+      "url": "https://www.nytimes.com/2020/09/30/health/timothy-ray-brown-first-patient-cured-of-hiv-dies-at-54.html",
+      "uri": "nyt://article/8c95b44c-0729-5f54-8eb3-6b3f18b2cc02",
+      "byline": "By Sam Roberts",
+      "item_type": "Article",
+      "updated_date": "2020-10-02T18:26:59-04:00",
+      "created_date": "2020-09-30T13:05:05-04:00",
+      "published_date": "2020-09-30T13:05:05-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "Acquired Immune Deficiency Syndrome",
+        "Bone Marrow",
+        "Stem Cells",
+        "Transplants"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Brown, Timothy Ray"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/obituaries/00Brown1/merlin_151580745_d18fca4e-4b46-4be2-9658-33ddff08488c-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Timothy Ray Brown, the first person cured of H.I.V., in 2019. In 2007, he received a bone marrow transplant from a donor who was immune to H.I.V.",
+          "copyright": "Grant Hindsley for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/obituaries/00Brown1/00Brown1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Timothy Ray Brown, the first person cured of H.I.V., in 2019. In 2007, he received a bone marrow transplant from a donor who was immune to H.I.V.",
+          "copyright": "Grant Hindsley for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/obituaries/00Brown1/00Brown1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Timothy Ray Brown, the first person cured of H.I.V., in 2019. In 2007, he received a bone marrow transplant from a donor who was immune to H.I.V.",
+          "copyright": "Grant Hindsley for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/obituaries/00Brown1/merlin_151580745_d18fca4e-4b46-4be2-9658-33ddff08488c-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Timothy Ray Brown, the first person cured of H.I.V., in 2019. In 2007, he received a bone marrow transplant from a donor who was immune to H.I.V.",
+          "copyright": "Grant Hindsley for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/obituaries/00Brown1/merlin_151580745_d18fca4e-4b46-4be2-9658-33ddff08488c-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Timothy Ray Brown, the first person cured of H.I.V., in 2019. In 2007, he received a bone marrow transplant from a donor who was immune to H.I.V.",
+          "copyright": "Grant Hindsley for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3cIyemC"
+    },
+    {
+      "section": "health",
+      "subsection": "",
+      "title": "White House Blocked C.D.C. Order to Keep Cruise Ships Docked",
+      "abstract": "The C.D.C. director wanted a \u201cno sail\u201d order extended until February, a policy that would have upset the tourism industry in the crucial swing state of Florida.",
+      "url": "https://www.nytimes.com/2020/09/30/health/covid-cruise-ships.html",
+      "uri": "nyt://article/ce1f474f-3eff-56af-bf0b-f942652b8835",
+      "byline": "By Sheila Kaplan",
+      "item_type": "Article",
+      "updated_date": "2020-10-01T00:22:18-04:00",
+      "created_date": "2020-09-30T12:37:58-04:00",
+      "published_date": "2020-09-30T12:37:58-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Cruises",
+        "United States Politics and Government",
+        "Lobbying and Lobbyists",
+        "Coronavirus Reopenings",
+        "Travel Warnings"
+      ],
+      "org_facet": [
+        "Centers for Disease Control and Prevention"
+      ],
+      "per_facet": [
+        "Redfield, Robert R",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Florida"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/science/28VIRUS-NOSAIL01/28VIRUS-NOSAIL01-superJumbo-v3.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Cruise ships docked in Miami in April. Florida\u2019s cruise industry, the largest in the nation, has been the hardest hit by the coronavirus, according to The Florida Ports Council.",
+          "copyright": "Angel Valentin for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/science/28VIRUS-NOSAIL01/28VIRUS-NOSAIL01-thumbStandard-v3.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Cruise ships docked in Miami in April. Florida\u2019s cruise industry, the largest in the nation, has been the hardest hit by the coronavirus, according to The Florida Ports Council.",
+          "copyright": "Angel Valentin for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/science/28VIRUS-NOSAIL01/28VIRUS-NOSAIL01-thumbLarge-v3.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Cruise ships docked in Miami in April. Florida\u2019s cruise industry, the largest in the nation, has been the hardest hit by the coronavirus, according to The Florida Ports Council.",
+          "copyright": "Angel Valentin for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/science/28VIRUS-NOSAIL01/28VIRUS-NOSAIL01-mediumThreeByTwo210-v3.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Cruise ships docked in Miami in April. Florida\u2019s cruise industry, the largest in the nation, has been the hardest hit by the coronavirus, according to The Florida Ports Council.",
+          "copyright": "Angel Valentin for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/science/28VIRUS-NOSAIL01/28VIRUS-NOSAIL01-articleInline-v3.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Cruise ships docked in Miami in April. Florida\u2019s cruise industry, the largest in the nation, has been the hardest hit by the coronavirus, according to The Florida Ports Council.",
+          "copyright": "Angel Valentin for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3cKY5dR"
+    },
+    {
+      "section": "magazine",
+      "subsection": "",
+      "title": "She Craved Salt and Felt Nauseated for Months. What Was Wrong?",
+      "abstract": "She was always tired, and her stomach had become strangely fragile. But her unaccountably tan skin clued doctors in to what ailed her.",
+      "url": "https://www.nytimes.com/2020/09/30/magazine/addisons-disease-primary-adrenal-insufficiency.html",
+      "uri": "nyt://article/e95810de-4e18-500c-9513-ba97300f6b58",
+      "byline": "By Lisa Sanders, M.D.",
+      "item_type": "Article",
+      "updated_date": "2020-10-02T03:02:28-04:00",
+      "created_date": "2020-09-30T05:00:06-04:00",
+      "published_date": "2020-09-30T05:00:06-04:00",
+      "material_type_facet": "",
+      "kicker": "Diagnosis",
+      "des_facet": [
+        "Nausea",
+        "ACTH (Adrenocorticotropic Hormone)",
+        "Hormones"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/magazine/04Mag-Diagnosis-01/04Mag-Diagnosis-01-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1166,
+          "width": 1500,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Photo illustration by Ina Jang"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/magazine/04Mag-Diagnosis-01/04Mag-Diagnosis-01-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Photo illustration by Ina Jang"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/magazine/04Mag-Diagnosis-01/04Mag-Diagnosis-01-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Photo illustration by Ina Jang"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/magazine/04Mag-Diagnosis-01/04Mag-Diagnosis-01-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Photo illustration by Ina Jang"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/magazine/04Mag-Diagnosis-01/04Mag-Diagnosis-01-articleInline.jpg",
+          "format": "Normal",
+          "height": 148,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Photo illustration by Ina Jang"
+        }
+      ],
+      "short_url": "https://nyti.ms/3kYl9s9"
+    },
+    {
+      "section": "science",
+      "subsection": "",
+      "title": "Cats Shed More Than Dogs. The Coronavirus, Not Fur.",
+      "abstract": "A new experiment confirmed that cats can spread the virus to one another, and found dogs did not shed the virus. There\u2019s still no evidence that pets transmit it to humans.",
+      "url": "https://www.nytimes.com/2020/09/29/science/cats-coronavirus-immunity.html",
+      "uri": "nyt://article/ba5a59ff-ae51-5da2-8853-e075e1546ed6",
+      "byline": "By James Gorman",
+      "item_type": "Article",
+      "updated_date": "2020-10-01T10:06:12-04:00",
+      "created_date": "2020-09-29T17:35:47-04:00",
+      "published_date": "2020-09-29T17:35:47-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Cats",
+        "Coronavirus (2019-nCoV)",
+        "Dogs",
+        "Coronavirus Risks and Safety Concerns",
+        "Ferrets",
+        "Pets",
+        "Research",
+        "your-feed-healthcare",
+        "your-feed-animals"
+      ],
+      "org_facet": [
+        "Proceedings of the National Academy of Sciences"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/science/29VIRUS-PETS01/29VIRUS-PETS01-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A new study shows that cats are capable of transmitting the coronavirus to other cats.",
+          "copyright": "How Hwee Young/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/science/29VIRUS-PETS01/29VIRUS-PETS01-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A new study shows that cats are capable of transmitting the coronavirus to other cats.",
+          "copyright": "How Hwee Young/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/science/29VIRUS-PETS01/29VIRUS-PETS01-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A new study shows that cats are capable of transmitting the coronavirus to other cats.",
+          "copyright": "How Hwee Young/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/science/29VIRUS-PETS01/29VIRUS-PETS01-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A new study shows that cats are capable of transmitting the coronavirus to other cats.",
+          "copyright": "How Hwee Young/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/science/29VIRUS-PETS01/29VIRUS-PETS01-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 124,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A new study shows that cats are capable of transmitting the coronavirus to other cats.",
+          "copyright": "How Hwee Young/EPA, via Shutterstock"
+        }
+      ],
+      "short_url": "https://nyti.ms/3ifT79K"
+    },
+    {
+      "section": "health",
+      "subsection": "",
+      "title": "\u2018Testing Hell\u2019: Gift of Devices to Nursing Homes Brings New Problems",
+      "abstract": "The federal government sent free rapid-test machines to 14,000 facilities. But they have come with unexpected costs, cumbersome reporting rules and questions about accuracy.",
+      "url": "https://www.nytimes.com/2020/09/29/health/covid-nursing-homes-testing.html",
+      "uri": "nyt://article/20b38007-a015-5fba-bed2-97241d5c8761",
+      "byline": "By Andrew Jacobs",
+      "item_type": "Article",
+      "updated_date": "2020-09-30T16:16:40-04:00",
+      "created_date": "2020-09-29T11:39:48-04:00",
+      "published_date": "2020-09-29T11:39:48-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Tests (Medical)",
+        "Nursing Homes",
+        "Elderly",
+        "Coronavirus (2019-nCoV)",
+        "Medical Devices",
+        "your-feed-healthcare"
+      ],
+      "org_facet": [
+        "Centers for Medicare and Medicaid Services"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/science/00VIRUS-NURSINGHOMES1/merlin_177483336_98d4f666-a6ae-4146-8f1d-166bff497c07-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rapid antigen testing among the staff at the\u00a0Westminster-Canterbury senior living community in Virginia Beach, Va.",
+          "copyright": "Julia Rendleman for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/science/00VIRUS-NURSINGHOMES1/00VIRUS-NURSINGHOMES1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rapid antigen testing among the staff at the\u00a0Westminster-Canterbury senior living community in Virginia Beach, Va.",
+          "copyright": "Julia Rendleman for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/science/00VIRUS-NURSINGHOMES1/00VIRUS-NURSINGHOMES1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rapid antigen testing among the staff at the\u00a0Westminster-Canterbury senior living community in Virginia Beach, Va.",
+          "copyright": "Julia Rendleman for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/science/00VIRUS-NURSINGHOMES1/00VIRUS-NURSINGHOMES1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rapid antigen testing among the staff at the\u00a0Westminster-Canterbury senior living community in Virginia Beach, Va.",
+          "copyright": "Julia Rendleman for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/science/00VIRUS-NURSINGHOMES1/00VIRUS-NURSINGHOMES1-articleInline.jpg",
+          "format": "Normal",
+          "height": 122,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rapid antigen testing among the staff at the\u00a0Westminster-Canterbury senior living community in Virginia Beach, Va.",
+          "copyright": "Julia Rendleman for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3ib7jkt"
+    }
+  ]
+}
